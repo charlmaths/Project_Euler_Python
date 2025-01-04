@@ -40,6 +40,6 @@ class PrimeNumberSolver():
 
 # Instantiate the object
 
-#prime_number = PrimeNumberSolver(7)
-#check_value = prime_number.is_number_prime()
-#print(check_value)
+prime_number = PrimeNumberSolver(356)
+check_value = prime_number.is_number_prime()
+print(check_value)
